@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Concordia's Aerospace Robotics Lab
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Krzysztof
+last_name: Skonieczny
 
 # Status emoji
 status:
@@ -17,21 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+#role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Concordia University
+    url: https://www.concordia.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Research interests include exploration robotics, wheeled rovers and rover wheel design.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+#interests:
+#  - Artificial Intelligence
+#  - Computational Linguistics
+#  - Information Retrieval
 
 # Education to show in About widget
 education:
